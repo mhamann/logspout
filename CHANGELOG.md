@@ -5,6 +5,7 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 
 ### Added
+- @mhamann: Enabled DNS SRV lookups for all transports (e.g. lookups via Consul)
 
 ### Removed
 

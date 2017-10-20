@@ -5,3 +5,8 @@ import:
 - package: golang.org/x/net
   subpackages:
   - websocket
+- package: github.com/benschw/srv-lb
+  subpackages:
+  - dns
+  - lb
+- package: github.com/miekg/dns
